@@ -16,7 +16,7 @@ app.listen(3000, () => {
   mongoose
     .connect(url)
     .then(() => {
-      console.log("DB WORKS");
+      console.log("SERVER RUNS");
     })
     .catch((err) => {
       console.log("PROBLEM HAPPENS");
