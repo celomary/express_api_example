@@ -1,0 +1,8 @@
+E_DBNAME="contrafeed"
+E_USERNAME="master"
+E_PASSWORD="Master_123"
+E_CLUSTER="cluster0"
+E_JWTSECRET="YpksnDn5EcYRvQavrJYK2lfEtfr8omE2"
+E_SALT="11"
+E_GOOGLE_CLIENT_ID="502811672477-o53cbhshblje7ki4q5uok4oulud5h9q4.apps.googleusercontent.com"
+E_GOOGLE_CLIENT_SECRET="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"
